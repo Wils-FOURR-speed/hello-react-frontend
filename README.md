@@ -37,7 +37,7 @@
 # 📖 React Frontend <a name="about-project"></a>
 
 **React Frontend** is web project using react that will show you a greeting from an api server
-This is the link to the [backend pr](https://github.com/kit0-0/hello-rails-back-end/pull/1)
+This is the link to the [backend pr](https://github.com//hello-rails-back-end/pull/1)
 
 -[backend feat/api](https://github.com/kit0-0/hello-rails-back-end/tree/feat/api)
 ## 🛠 Built With <a name="built-with"></a>
@@ -75,7 +75,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/kit0-0/hello-react-front-end.git
+  git clone https://github.com/Wils-FOURR-speed/hello-react-frontend.git
 ```
 
 ### Install
@@ -142,9 +142,10 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## 👥 Author <a name="author"></a>
 
-👤 kit0-0
-
-- GitHub: [@kit0-0](https://github.com/kit0-0)
+👤 **WILSAN**
+- GitHub: [@githubhandle](https://github.com/Wils-FOURR-speed)
+- Twitter: [@twitterhandle](https://twitter.com/WFourrspeed)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nji-wilsan-ndenge-47b7a826a/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -163,7 +164,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kit0-0/hello-react-front-end/issues/).
+Feel free to check the [issues page](https://github.com/Wils-FOURR-speed/hello-react-frontend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
